@@ -1,0 +1,23 @@
+{
+  "name": "new-gsap-website",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "gsap-trial": "^3.12.2",
+    "locomotive-scroll": "^4.1.4",
+    "parcel": "^2.9.3",
+    "three": "^0.154.0",
+    "tween": "^0.9.0"
+  }
+}
